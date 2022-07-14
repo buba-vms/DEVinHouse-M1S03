@@ -1,0 +1,61 @@
+* {
+  margin-top: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #1b0327;
+}
+
+h1 {
+  padding-top: 20px;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.main-center {
+  text-align: center;
+  background-color: #d4b2e6;
+  width: 50vw;
+  min-width: 370px;
+  min-height: 440px;
+  border-radius: 15px;
+}
+
+#mensagem {
+  margin-bottom: 5px;
+  height: 30px;
+  width: 330px;
+}
+
+.btns {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+}
+
+.btn {
+  width: 100px;
+  height: 40px;
+  display: block;
+}
+
+p {
+  font-size: 24px;
+  padding-top: 30px;
+}
+
+.reposta {
+  max-width: 400px;
+}
+
+p {
+  color: #f60074;
+}
