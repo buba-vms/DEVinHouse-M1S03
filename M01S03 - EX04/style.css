@@ -10,4 +10,5 @@ main {
   text-align: center;
   font-size: 15px;
   margin: 2px;
+  border: 1px blue solid;
 }
